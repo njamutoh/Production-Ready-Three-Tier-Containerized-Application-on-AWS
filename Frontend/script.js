@@ -1,4 +1,4 @@
-const apiUrl = 'http://ecs-demo-alb-1019953154.eu-central-1.elb.amazonaws.com'; // Replace with actual backend endpoint
+const apiUrl = 'http://ALB-1097753199.us-east-1.elb.amazonaws.com'; // Replace with actual backend endpoint
 
 let userId = null;
 let userEmail = null;
